@@ -1,5 +1,5 @@
 # About me
->Love everything to do with network infrastructure and how the internet works, currently self hosting DexterFiles.com
+Love everything to do with network infrastructure and how the internet works, currently self hosting DexterFiles.com
 
 
 ---
